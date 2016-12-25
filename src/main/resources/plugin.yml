@@ -1,0 +1,8 @@
+name: DrainCraft
+main: io.github.speakyparrot.draincraft.draincraft
+version: 0.0.1
+
+commands: 
+ draincraft:
+  description: Drain water from a closed lake. Must be in the water!
+  usage: "Usage: '/draincraft"
