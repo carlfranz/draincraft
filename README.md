@@ -33,14 +33,14 @@ Once finished copy the jar `target/DrainCraft-0.0.1-SNAPSHOT.jar` to the `plugin
 When in game open the console and type:
 
 ```
-/dc_drain <blocks>
+/draincraft <blocks>
 ```
 Where blocks is the maximum radius (?). 
 
 or
 
 ```
-/dc_drain linear
+/draincraft linear
 ```
 
 To remove only one layer of water.
